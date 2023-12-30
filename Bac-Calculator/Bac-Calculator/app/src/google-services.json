@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937086672622",
+    "project_id": "bac-calculator-1330b",
+    "storage_bucket": "bac-calculator-1330b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937086672622:android:39248963668997bf7d1dff",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9AnpsZF44Z2YqzP8FJd1_daNOTEBR8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
